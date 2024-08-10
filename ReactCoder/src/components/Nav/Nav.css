@@ -1,0 +1,32 @@
+
+.navbar-brand {
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: fantasy;
+    padding: 1%;
+  }
+  
+  .navbar-nav {
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .nav-item {
+    text-align: center;
+  }
+  
+  .navbar-toggler {
+    margin-top: 10px; 
+  }
+  .elegant-subtitle {
+    font-family: 'Georgia', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+    letter-spacing: 0.05em;
+}

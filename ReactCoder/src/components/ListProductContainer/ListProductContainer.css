@@ -1,0 +1,39 @@
+.productos-title {
+    font-family: 'Arial', sans-serif;
+    color: #090d09;
+}
+
+
+.card {
+    border: 1px solid #91b0d2;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.card-text {
+    font-size: 1.2rem;
+    color: black;
+}
+
+.btn-primary {
+    background-color: #38e807c3;
+    border-color: #d7d7ce;
+}
+
+.btn-primary:hover {
+    background-color: #61ff06ce;
+    border-color: #d7d7ce;
+}
+.heading {
+    font-family: 'Times New Roman', serif;
+    font-size: 2em;
+    font-weight: 600;
+}
